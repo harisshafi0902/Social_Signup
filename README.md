@@ -13,6 +13,6 @@ Express
 
 
 # How to Install and Run the Project
-git clone https://github.com/MominRiaz27/remote_home.git
+git clone https://github.com/harisshafi0902/Social_Signup.git
 npm install
 npm start
